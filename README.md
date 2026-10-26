@@ -1,5 +1,9 @@
 # Battle Konchūden — An English Translation Project
 
+<p align="center">
+  <img src="assets/battle-konchuuden-cover.png" alt="Japanese disc art of Battle Konchuuden for PlayStation" width="300">
+</p>
+
 An AI-assisted translation project for Jaleco's 1999 Japanese PlayStation RPG.
 
 ## How it started
