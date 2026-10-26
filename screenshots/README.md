@@ -1,13 +1,35 @@
 # Screenshots
 
-This page showcases the English translation of *Battle Konchūden* running in an emulator.
+The following screenshots showcase the English translation of *Battle Konchūden* running in an emulator.
 
-The screenshots illustrate different aspects of the game, including dialogue, menus, insect battles, and encyclopedia entries.
+They illustrate different aspects of the game, from dialogue and menus to insect battles and encyclopedia entries.
 
-## Images
+## Dialogue
 
-The screenshots are available in the [`images/`](images/) directory.
+![Dialogue](images/Dialogue.png)
+
+## Menus and interface
+
+**Title screen**
+
+![Title screen](images/Title.png)
+
+**In-game menu**
+
+![Menu](images/Menu.png)
+
+## Insect battles
+
+![Insect battle — screenshot 1](images/Battle1.png)
+
+![Insect battle — screenshot 2](images/Battle2.png)
+
+## Insect encyclopedia
+
+![Insect encyclopedia](images/Encyclopedia.png)
 
 ---
+
+[Back to the main project page](../README.md)
 
 All screenshots were captured from the game running with the English translation patch applied.
