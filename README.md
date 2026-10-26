@@ -39,8 +39,6 @@ Some areas remain incompletely tested, including later stages of the secret mode
 
 The original Japanese voice acting, game and studio logos, and selected decorative Japanese artwork have intentionally been preserved.
 
-I'm hoping to make the patch available once the remaining checks are complete. In the meantime, I'd welcome feedback from people interested in retro gaming, obscure Japanese games, and fan-translation projects.
-
 ## Why document this project?
 
 Part of what makes this project interesting to me is the possibility of using modern AI tools to explore older games whose data formats and text systems were never designed with fan translation in mind.
@@ -55,11 +53,16 @@ Explore screenshots of the English translation, including dialogue, menus, insec
 
 **[View the screenshots gallery](screenshots/README.md)**
 
-## Patch
+## Download the English Patch
 
-The English translation patch and installation instructions will be documented in the patch directory once the remaining checks are complete.
+The English translation patch is now available!
 
-**[View patch information](patch/README.md)**
+**Current version: v1.0**
+
+You can find the patch in the [`patch/releases/`](patch/releases/) directory.
+
+The download archive includes the PPF patch file and installation instructions. Please read the [patch documentation](patch/README.md) before applying it to your game image.
+
 
 ## Join the conversation
 
