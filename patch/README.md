@@ -50,6 +50,8 @@ The PPF patch must be applied to the appropriate BIN image, not to the CUE file.
 
 If the game image contains multiple BIN files, make sure you patch the specific file expected by the patch and preserve the rest of the disc image structure.
 
+**Optional date patch:** An additional patch, `BK_EN_option_date`, is included in the download archive to translate the dates displayed in the game. If you wish to use it, apply it to the BIN file **after** applying the main English translation patch and **before** converting the image to CHD. This patch is optional.
+
 ### 3. Convert the patched image to CHD
 
 CHD is a convenient, compressed disc-image format supported by many PlayStation emulators.
